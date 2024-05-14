@@ -1,0 +1,38 @@
+F:\Sophomore (năm 2 )\second term (16 tin 6tr048k)\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\bin\Debug\new_quanlykhambenh.exe.config
+F:\Sophomore (năm 2 )\second term (16 tin 6tr048k)\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\bin\Debug\new_quanlykhambenh.exe
+F:\Sophomore (năm 2 )\second term (16 tin 6tr048k)\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\bin\Debug\new_quanlykhambenh.pdb
+F:\Sophomore (năm 2 )\second term (16 tin 6tr048k)\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\obj\Debug\new_quanlykhambenh.csproj.AssemblyReference.cache
+F:\Sophomore (năm 2 )\second term (16 tin 6tr048k)\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\obj\Debug\new_quanlykhambenh.frm_dangNhap.resources
+F:\Sophomore (năm 2 )\second term (16 tin 6tr048k)\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\obj\Debug\new_quanlykhambenh.Properties.Resources.resources
+F:\Sophomore (năm 2 )\second term (16 tin 6tr048k)\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\obj\Debug\new_quanlykhambenh.csproj.GenerateResource.cache
+F:\Sophomore (năm 2 )\second term (16 tin 6tr048k)\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\obj\Debug\new_quanlykhambenh.csproj.CoreCompileInputs.cache
+F:\Sophomore (năm 2 )\second term (16 tin 6tr048k)\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\obj\Debug\new_quanlykhambenh.exe
+F:\Sophomore (năm 2 )\second term (16 tin 6tr048k)\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\obj\Debug\new_quanlykhambenh.pdb
+F:\Sophomore (năm 2 )\second term (16 tin 6tr048k)\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\obj\Debug\new_quanlykhambenh.quenMk.resources
+F:\Sophomore (năm 2 )\second term (16 tin 6tr048k)\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\obj\Debug\new_quanlykhambenh.itemhethong.resources
+F:\Sophomore (năm 2 )\second term (16 tin 6tr048k)\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\obj\Debug\new_quanlykhambenh.frm_trangChu.resources
+F:\Sophomore (năm 2 )\second term (16 tin 6tr048k)\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\obj\Debug\new_quanlykhambenh.XuLyChucNang.formNhanvien.resources
+F:\Sophomore (năm 2 )\second term (16 tin 6tr048k)\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\obj\Debug\new_quanlykhambenh.XuLyChucNang.form_benhAn.resources
+F:\Sophomore (năm 2 )\second term (16 tin 6tr048k)\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\obj\Debug\new_quanlykhambenh.XuLyChucNang.form_bennhan.resources
+F:\Sophomore (năm 2 )\second term (16 tin 6tr048k)\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\obj\Debug\new_quanlykhambenh.XuLyChucNang.form_dichvu.resources
+F:\Sophomore (năm 2 )\second term (16 tin 6tr048k)\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\obj\Debug\new_quanlykhambenh.XuLyChucNang.form_hoadon.resources
+F:\Sophomore (năm 2 )\second term (16 tin 6tr048k)\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\obj\Debug\new_quanlykhambenh.XuLyChucNang.form_QuanLyBacSi.resources
+E:\Open_University\Sophomore\second term_16tin_6tr048k\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\bin\Debug\new_quanlykhambenh.exe.config
+E:\Open_University\Sophomore\second term_16tin_6tr048k\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\bin\Debug\new_quanlykhambenh.exe
+E:\Open_University\Sophomore\second term_16tin_6tr048k\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\bin\Debug\new_quanlykhambenh.pdb
+E:\Open_University\Sophomore\second term_16tin_6tr048k\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\obj\Debug\new_quanlykhambenh.csproj.AssemblyReference.cache
+E:\Open_University\Sophomore\second term_16tin_6tr048k\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\obj\Debug\new_quanlykhambenh.frm_dangNhap.resources
+E:\Open_University\Sophomore\second term_16tin_6tr048k\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\obj\Debug\new_quanlykhambenh.itemhethong.resources
+E:\Open_University\Sophomore\second term_16tin_6tr048k\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\obj\Debug\new_quanlykhambenh.Properties.Resources.resources
+E:\Open_University\Sophomore\second term_16tin_6tr048k\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\obj\Debug\new_quanlykhambenh.quenMk.resources
+E:\Open_University\Sophomore\second term_16tin_6tr048k\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\obj\Debug\new_quanlykhambenh.frm_trangChu.resources
+E:\Open_University\Sophomore\second term_16tin_6tr048k\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\obj\Debug\new_quanlykhambenh.XuLyChucNang.formNhanvien.resources
+E:\Open_University\Sophomore\second term_16tin_6tr048k\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\obj\Debug\new_quanlykhambenh.XuLyChucNang.form_benhAn.resources
+E:\Open_University\Sophomore\second term_16tin_6tr048k\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\obj\Debug\new_quanlykhambenh.XuLyChucNang.form_bennhan.resources
+E:\Open_University\Sophomore\second term_16tin_6tr048k\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\obj\Debug\new_quanlykhambenh.XuLyChucNang.form_dichvu.resources
+E:\Open_University\Sophomore\second term_16tin_6tr048k\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\obj\Debug\new_quanlykhambenh.XuLyChucNang.form_hoadon.resources
+E:\Open_University\Sophomore\second term_16tin_6tr048k\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\obj\Debug\new_quanlykhambenh.XuLyChucNang.form_QuanLyBacSi.resources
+E:\Open_University\Sophomore\second term_16tin_6tr048k\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\obj\Debug\new_quanlykhambenh.csproj.GenerateResource.cache
+E:\Open_University\Sophomore\second term_16tin_6tr048k\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\obj\Debug\new_quanlykhambenh.csproj.CoreCompileInputs.cache
+E:\Open_University\Sophomore\second term_16tin_6tr048k\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\obj\Debug\new_quanlykhambenh.exe
+E:\Open_University\Sophomore\second term_16tin_6tr048k\1.huong_su_kien_(co tam)\0.1btl\new_quanlykhambenh\new_quanlykhambenh\obj\Debug\new_quanlykhambenh.pdb

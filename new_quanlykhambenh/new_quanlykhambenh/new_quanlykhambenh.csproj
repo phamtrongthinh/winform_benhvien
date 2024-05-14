@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{29CA01A7-BF56-4285-AEB9-DC6259303748}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>new_quanlykhambenh</RootNamespace>
+    <AssemblyName>new_quanlykhambenh</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangNhap.Designer.cs">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="itemhethong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="itemhethong.Designer.cs">
+      <DependentUpon>itemhethong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="trangChu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="trangChu.Designer.cs">
+      <DependentUpon>trangChu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="quenMk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="quenMk.Designer.cs">
+      <DependentUpon>quenMk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XuLyChucNang\formNhanvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XuLyChucNang\formNhanvien.Designer.cs">
+      <DependentUpon>formNhanvien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XuLyChucNang\form_benhAn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XuLyChucNang\form_benhAn.Designer.cs">
+      <DependentUpon>form_benhAn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XuLyChucNang\form_bennhan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XuLyChucNang\form_bennhan.Designer.cs">
+      <DependentUpon>form_bennhan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XuLyChucNang\form_dichvu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XuLyChucNang\form_dichvu.Designer.cs">
+      <DependentUpon>form_dichvu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XuLyChucNang\form_hoadon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XuLyChucNang\form_hoadon.Designer.cs">
+      <DependentUpon>form_hoadon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XuLyChucNang\form_QuanLyBacSi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XuLyChucNang\form_QuanLyBacSi.Designer.cs">
+      <DependentUpon>form_QuanLyBacSi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XuLyDL\XuLyTK.cs" />
+    <Compile Include="XuLyDL\Connect\ConnnectStr.cs" />
+    <EmbeddedResource Include="DangNhap.resx">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="itemhethong.resx">
+      <DependentUpon>itemhethong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="quenMk.resx">
+      <DependentUpon>quenMk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="trangChu.resx">
+      <DependentUpon>trangChu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XuLyChucNang\formNhanvien.resx">
+      <DependentUpon>formNhanvien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XuLyChucNang\form_benhAn.resx">
+      <DependentUpon>form_benhAn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XuLyChucNang\form_bennhan.resx">
+      <DependentUpon>form_bennhan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XuLyChucNang\form_dichvu.resx">
+      <DependentUpon>form_dichvu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XuLyChucNang\form_hoadon.resx">
+      <DependentUpon>form_hoadon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XuLyChucNang\form_QuanLyBacSi.resx">
+      <DependentUpon>form_QuanLyBacSi.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image_3b45f462_6833_4f24_9af6_0a778b787b1a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image_3b45f462_6833_4f24_9af6_0a778b787b1a1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
